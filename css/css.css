@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(52, 120, 189);
+  text-align: center;
+  color: aliceblue;
+}
+
+.titel {
+  text-decoration: underline;
+}
+
+.choose {
+  margin: 15px 0;
+}
+
+.archiv-box {
+  border-radius: 3px;
+  border: 1px;
+  border-color: black;
+  background-color: aliceblue;
+  box-shadow: 3px 3px rgba(17, 17, 17, 0.644);
+}
+
+.warper {
+  width: 100%;
+  margin: auto;
+  align-content: center;
+}
+
+.titelarchiv {
+  background: dimgrey;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.tg {
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+.tg td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: black;
+}
+
+.tg th {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: black;
+  text-align: center;
+}
+
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top
+}
+
+.submit {
+  margin: 20px 0;
+  border-radius: 5px;
+  height: 40px;
+  width: 75px;
+}
+
+/* unvisited link */
+
+a.x:link {
+  color: crimson;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* visited link */
+
+a.x:visited {
+  color: crimson;
+}
+
+/* mouse over link */
+
+a.x:hover {
+  color: black;
+}
+
+/* selected link */
+
+a.x:active {
+  color: crimson;
+}

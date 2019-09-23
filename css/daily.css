@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(52, 120, 189);
+    color: aliceblue;
+}
+
+.daily-box{
+    border-radius: 3px;
+    border: 1px;
+    border-color: black;
+    background-color: aliceblue;
+    box-shadow: 3px 3px rgba(17, 17, 17, 0.644);
+}
+
+
+
+/* MSG */
+.daily-msg{
+    width: 100%;
+    font-size: 18px;
+}
+
+.daily-msg p{
+    width: 100%;
+    text-align: center;
+}
+
+/* Form */
+.daily-form{
+    width: 100%;
+}
+
+.daily-form form{
+    text-align: center;
+}
+
+.daily-day select{
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+#daily{
+    font-size: 18px;
+}
+
+
+#chf{
+    width: 75px;
+    height: 35px;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+}
+
+
+.daily-to-archiv-text{
+    padding: 20px 0;
+    line-height: 25px;
+}
+
+.daily-checkbox{
+    line-height: 25px;
+    height: 20px;
+    width: 20px;
+    bottom: 0;
+}
+
+#daily-suppe{
+    width: 250px;
+    height: 35px;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.daily-form button{
+    margin: 20px 0;
+    border-radius: 5px;
+    height: 40px;
+    width: 75px;
+}

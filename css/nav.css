@@ -1,0 +1,28 @@
+.navi{
+    width: 100%;
+}
+.navi table{
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* unvisited link */
+a:link {
+    color: whitesmoke;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: whitesmoke;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: whitesmoke;
+  }
